@@ -1,0 +1,17 @@
+.discription {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 2%;
+}
+
+.discription img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover; /* Ensure the image covers the entire area without distortion */
+}
+
+.discription div {
+    flex: 1; /* Allow the text container to take up the remaining space */
+}
