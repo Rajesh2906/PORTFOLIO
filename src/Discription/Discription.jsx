@@ -8,7 +8,7 @@ function Discription(params) {
     <div>
       <p>Welcome to the site!</p>
       <p>
-        Full Stack Web Developer adept at Spring Boot, JWT, Swagger, Eureka, and
+        I am a Full Stack Web Developer with two years of expereince and  adept at Spring Boot, JWT, Swagger, Eureka, and
         React.js. Meticulous planner, deadline-driven, and enthusiastic about
         team collaboration. Eager to learn and implement new technologies.
       </p>

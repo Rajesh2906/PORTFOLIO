@@ -1,0 +1,17 @@
+.projects{
+    display: flex;
+    align-items: center;
+    padding: 2%;
+    justify-content: space-between;
+}
+
+.projects .project{
+    text-decoration: none;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 1px;
+    color: inherit;
+    padding: 1.5%;
+    text-align: left;
+}
