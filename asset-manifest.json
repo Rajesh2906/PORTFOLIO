@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO/static/css/main.74b24549.css",
-    "main.js": "/PORTFOLIO/static/js/main.4ed4212f.js",
+    "main.css": "/PORTFOLIO/static/css/main.990b2818.css",
+    "main.js": "/PORTFOLIO/static/js/main.b33be4b8.js",
     "static/js/453.1407b060.chunk.js": "/PORTFOLIO/static/js/453.1407b060.chunk.js",
     "static/media/LInP.png": "/PORTFOLIO/static/media/LInP.13a7ee3a35ec8afc282c.png",
+    "static/media/postMan.png": "/PORTFOLIO/static/media/postMan.b82a557299c253d181a9.png",
+    "static/media/spring-boot.png": "/PORTFOLIO/static/media/spring-boot.216027420f1096069da2.png",
+    "static/media/javaScript.png": "/PORTFOLIO/static/media/javaScript.130c0ecd57833da6f75c.png",
+    "static/media/css.png": "/PORTFOLIO/static/media/css.bee63b9e863f48d93bda.png",
     "static/media/AWS-Certified-Cloud-Practitioner_badge.png": "/PORTFOLIO/static/media/AWS-Certified-Cloud-Practitioner_badge.f685d63a35961ca83875.png",
+    "static/media/reactJs.png": "/PORTFOLIO/static/media/reactJs.fd373eec9017cf21b26d.png",
+    "static/media/sqlServer.svg": "/PORTFOLIO/static/media/sqlServer.d8960239462c3866a8b8fa70cab83b00.svg",
+    "static/media/html.png": "/PORTFOLIO/static/media/html.d710ce015547e1f69ebf.png",
+    "static/media/java.svg": "/PORTFOLIO/static/media/java.96328a7a7d7c814ced4d0316ed82d718.svg",
     "index.html": "/PORTFOLIO/index.html",
-    "main.74b24549.css.map": "/PORTFOLIO/static/css/main.74b24549.css.map",
-    "main.4ed4212f.js.map": "/PORTFOLIO/static/js/main.4ed4212f.js.map",
+    "main.990b2818.css.map": "/PORTFOLIO/static/css/main.990b2818.css.map",
+    "main.b33be4b8.js.map": "/PORTFOLIO/static/js/main.b33be4b8.js.map",
     "453.1407b060.chunk.js.map": "/PORTFOLIO/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74b24549.css",
-    "static/js/main.4ed4212f.js"
+    "static/css/main.990b2818.css",
+    "static/js/main.b33be4b8.js"
   ]
 }
